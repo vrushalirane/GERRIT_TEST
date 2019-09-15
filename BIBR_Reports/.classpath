@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/lib/encryptionUtility.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/lib/jxl-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/lib/ooxml-schemas-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/passwordSecurity/passwordSecurity-1.0.jar"/>
+	<classpathentry kind="src" path="resource"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/lib/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/vdattaramrane/Desktop/Build_&amp;_Deployments_doc/utility/lib/mysql-connector-java-5.1.35.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
